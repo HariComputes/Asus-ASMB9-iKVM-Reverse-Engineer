@@ -1,6 +1,9 @@
 # Asus-ASMB9-iKVM-Reverse-Engineer
 These pricey little things. for just a ROM chip on a PCB. This is a breakdown on what connects where and through what.
 
+Since doing this fact finding excersize. seems someone had already done the heavy lifting here:
+https://forums.servethehome.com/index.php?threads/asus-p11c-i-with-asmb9-ikvm-after-fw-update-password-not-working.31905/page-2#post-315667
+
 ## Chip
 
 The ROM used here is a MXIC MX25L25735FMI-10G
