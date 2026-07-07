@@ -28,6 +28,9 @@ This is the diagram I used for the J1 connector:
 This is the pinout for the MXIC chip:
 <br>
 <img width="261" height="163" alt="image" src="https://github.com/user-attachments/assets/f39ed310-4fc5-45f7-a926-e26aeb5ebbd2" />
+<br>
+turns out the manual has the pinouts in it 🤦‍♂️
+<img width="1093" height="629" alt="image" src="https://github.com/user-attachments/assets/80a3ed2e-4475-4514-96ef-09d948eac00f" />
 
 ## Pin Traces
 
